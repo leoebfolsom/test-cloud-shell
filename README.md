@@ -1,2 +1,2 @@
 # test-cloud-shell
-test repo for exploring cloud shell utilization
+This is a repository that I will use to try out different cloud shell and storage options.
